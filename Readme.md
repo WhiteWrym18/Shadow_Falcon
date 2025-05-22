@@ -1,6 +1,6 @@
 # 🚀 Shadow Falcon
 
-![Shadow Falcon Logo](Resources/Logo.svg)
+![Shadow Falcon Logo](Resources/Logo.jpeg)
 
 ## Terminal-based Space Adventure on Windows
 
