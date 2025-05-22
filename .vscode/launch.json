@@ -5,18 +5,18 @@
             "request": "launch",
             "args": [],
             "cwd": "${workspaceFolder:Folder}",
-            "name": "Debug Cosmic Defender",
-            "program": "${workspaceFolder:Folder}/.build/debug/Cosmic Defender",
-            "preLaunchTask": "swift: Build Debug Cosmic Defender"
+            "name": "Debug Shadow Falcon",
+            "program": "${workspaceFolder:Folder}/.build/debug/Shadow Falcon",
+            "preLaunchTask": "swift: Build Debug Shadow Falcon"
         },
         {
             "type": "swift",
             "request": "launch",
             "args": [],
             "cwd": "${workspaceFolder:Folder}",
-            "name": "Release Cosmic Defender",
-            "program": "${workspaceFolder:Folder}/.build/release/Cosmic Defender",
-            "preLaunchTask": "swift: Build Release Cosmic Defender"
+            "name": "Release Shadow Falcon",
+            "program": "${workspaceFolder:Folder}/.build/release/Shadow Falcon",
+            "preLaunchTask": "swift: Build Release Shadow Falcon"
         }
     ]
 }

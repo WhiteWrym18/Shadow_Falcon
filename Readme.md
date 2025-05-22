@@ -1,10 +1,10 @@
-# 🚀 Cosmic Defender
+# 🚀 Shadow Falcon
 
-![Cosmic Defender Logo](Resources/Logo.svg)
+![Shadow Falcon Logo](Resources/Logo.svg)
 
 ## Terminal-based Space Adventure on Windows
 
-**Cosmic Defender** is an exciting terminal-based space shooter game written in Swift and designed to run on Windows systems. Defend the galaxy from relentless alien invaders using only your ship and your wits!
+**Shadow Falcon** is an exciting terminal-based space shooter game written in Swift and designed to run on Windows systems. Defend the galaxy from relentless alien invaders using only your ship and your wits!
 
 ## 📖 Table of Contents
 
@@ -20,7 +20,7 @@
 
 In a distant future, humanity's last outpost is under attack from alien forces seeking to destroy everything in their path. As the pilot of the experimental spacecraft "Defender," you are tasked with protecting your home against waves of enemy ships, collecting power-ups, and upgrading your vessel to face increasingly difficult challenges.
 
-Cosmic Defender brings classic arcade shooting action to your terminal window with colorful ASCII graphics, immersive sound effects (via console beeps), and challenging gameplay - all without leaving your command line.
+Shadow Falcon brings classic arcade shooting action to your terminal window with colorful ASCII graphics, immersive sound effects (via console beeps), and challenging gameplay - all without leaving your command line.
 
 ## Features
 
@@ -56,11 +56,11 @@ Cosmic Defender brings classic arcade shooting action to your terminal window wi
       winget install --id Swift.Toolchain -e
       ```
 
-2. **Download Cosmic Defender**:
+2. **Download Shadow Falcon**:
 
    ```bash
-   git clone https://github.com//cosmic-defender.git
-   cd cosmic-defender
+   git clone https://github.com//shadow-falcon.git
+   cd shadow-falcon
    ```
 
 3. **Build the game**:
